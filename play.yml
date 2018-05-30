@@ -1,4 +1,4 @@
-- name: clients info
+- name: Servers
   hosts: experiments
   remote_user: root
-  command: uname -a
+  command: uname
