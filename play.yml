@@ -1,0 +1,5 @@
+-----
+-	hosts: experiments
+	tasks: 
+	- name: test
+	  action ansible experiments -m ping
