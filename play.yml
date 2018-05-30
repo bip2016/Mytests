@@ -1,4 +1,3 @@
-- name: Servers
   hosts: experiments
   remote_user: root
   command: uname
