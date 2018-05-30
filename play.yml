@@ -2,4 +2,4 @@
 -	hosts: all
 	tasks: 
 	- name: test
-	  action: uname
+	  command: uname
