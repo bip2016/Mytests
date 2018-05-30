@@ -3,4 +3,4 @@
 
   tasks:
   - name: a bad play
-    action: command  apt-get install ngnix
+    action: command  apt-get install nginx
