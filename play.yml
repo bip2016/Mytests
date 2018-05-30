@@ -1,3 +1,4 @@
-- name: Configure new server
+- name: clients info
   hosts: experiments
   remote_user: root
+  command: uname -a
