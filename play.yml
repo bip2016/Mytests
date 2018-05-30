@@ -3,4 +3,4 @@
 
   tasks:
   - name: a bad play
-    action: command service httpd2 restart
+    action: command  apt-get install ngnix
